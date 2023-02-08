@@ -7,8 +7,8 @@
 
 void startgame_snake()
 {
-  int snake[MAX_SNAKE_LEN]; //upper 16-bits are x-coord (width), lower 16-bits are y-coord (height)
-  unsigned char snake_len = 0;
+  //int snake[MAX_SNAKE_LEN]; //upper 16-bits are x-coord (width), lower 16-bits are y-coord (height)
+  //unsigned char snake_len = 0;
 
   puts("playing snake game!");
 }

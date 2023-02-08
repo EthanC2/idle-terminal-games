@@ -3,5 +3,6 @@
 
 void rescale_window(int);
 void init_screen();
+void exit_screen();
 
 #endif

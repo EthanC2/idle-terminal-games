@@ -1,1 +1,1 @@
--Wall -Wextra -Werror
+-Wall -Wextra -Werror -Wno-error=unused-parameter
